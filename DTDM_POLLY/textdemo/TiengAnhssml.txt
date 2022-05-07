@@ -1,0 +1,7 @@
+<speak>
+hi
+  <break time="5s" />
+<emphasis>
+Wow, I cannot believe how long this line is.  This is why I hate waiting at the DMV!
+</emphasis>
+</speak>

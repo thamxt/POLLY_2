@@ -1,0 +1,19 @@
+과일을 빨리 익히기 위해 화학 물질이 사용되기도 한다. 그러나 화학 물질로 익힌 과일은 겉은 익었지만 속이 잘 익지 않은 경우가 많다.
+
+生活リズムが変わってからは早朝に起きるのが辛い時期がありました。ただ、環境が変わったからといって、一度やると決めたことを簡単に投げ出してはよくないと自分に言い聞かせたので。
+
+<speak>生活リズムが変わってからは早朝に起きるのが辛い時期がありました <break time="1s"/> ただ、環境が変わったからといって一度やると決めたことを簡単に投げ出してはよくないと自分に言い聞かせたので</speak>
+
+<speak>
+  Here are <say-as interpret-as="characters">SSML</say-as> samples.
+  I can pause <break time="3s"/>.
+  I can speak in cardinals. Your number is<say-as interpret-as="cardinal">10</say-as>.
+  Or I can even speak in digits. The digits for ten are
+  <say-as interpret-as="characters">10</say-as>.
+  I can also substitute phrases, like the  <sub alias="World Wide Web Consortium"> W3C </sub>.
+  Finally, I can speak a paragraph with two sentences.
+  <p>
+    <s>This is sentence one.</s>
+    <s>This is sentence two.</s>
+  </p>
+</speak>
